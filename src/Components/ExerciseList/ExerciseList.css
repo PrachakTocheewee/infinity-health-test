@@ -1,0 +1,50 @@
+.cardAct {
+    width: 714px;
+    height: 114px;
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: #A7DFF1;
+    border-radius: 15px;
+    font-family: Inter;
+    font-weight: lighter;
+    font-size: 11px;
+}
+
+.addCardAct {
+    width: 714px;
+    height: 114px;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 15px;
+    border-style: dashed
+}
+
+.addCardActText {
+    text-align: center;
+}
+
+.cardActName {
+    display: flex;
+    flex-direction: row;
+}
+
+.cardActType {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+}
+
+
+.boldFont {
+    font-weight: bold;
+}
+
+.createAct {
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+.pendingAct {
+    padding: 10px 20px;
+    margin: 20px;
+}
